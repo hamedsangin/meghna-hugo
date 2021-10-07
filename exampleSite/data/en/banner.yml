@@ -4,9 +4,11 @@ banner:
   bg_image_webp: "/images/thinkpad_p52_1.jpg"
   bg_image: "/images/thinkpad_p52_1.jpg"
   icon: ''
-  title: Find about your Building by BPSimulation
-  content: A right place 4 specialists who want to know more about Building Performance
-    simulation (BPS)
+  title: BPSimulation
+  content: |-
+    Find About Your Building By BPSimulation
+
+    A right place 4 specialists who want to know more about Building Performance simulation (BPS)
   button:
     enable: true
     label: Explore Us
