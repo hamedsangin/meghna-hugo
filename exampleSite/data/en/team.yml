@@ -20,8 +20,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Kiana Haghighat Nejad
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: "/images/free-nikab-barakath-original-imafngjf2gxkfdbh.jpeg"
+    image: "/images/free-nikab-barakath-original-imafngjf2gxkfdbh.jpeg"
     designation: Co-Founder
     content: |-
       Energy and Daylighting Expert
