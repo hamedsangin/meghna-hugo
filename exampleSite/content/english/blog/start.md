@@ -7,4 +7,10 @@ image_webp = "/images/image-77.jpg"
 title = "Start"
 
 +++
-hi
+Hi guys
+
+My name is Hamed Sangin and today start my new website to share my 4 years of experience in Building Performance Simulation (BPS).
+
+In this BPSimulation website, we're going to create content to learn about all aspects of BPS including energy analysis simulation, CFD simulation, acoustic simulation, and ... for every type of buildings.
+
+We hope this website be the thing you were finding for it :D.
