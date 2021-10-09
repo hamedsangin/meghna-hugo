@@ -4,10 +4,9 @@ feature:
   image: "/images/vr1.PNG"
   image_webp: "/images/vr1.PNG"
   title: XR reality in AEC industry
-  content: We going the Architecture, Engineering, and Construction (AEC) industry,
-    Extended Reality (XR) technologies that simulate a construction project in a multidimensional
-    digital model and present multiple aspects of a project can be a tremendous help
-    in all stages of a project.
+  content: We going to bring Extended Reality (XR) technologies the Architecture,
+    Engineering, and Construction (AEC) industry, to simulate BPS and present multiple
+    aspects of a project can be a tremendous help in all stages of a project.
   feature_item:
   - title: SEO Optimized
     icon: ti-world
