@@ -9,7 +9,7 @@ feature:
     aspects of a project can be a tremendous help in all stages of a project.
   feature_item:
   - title: AR (Augmented Reality) in AEC
-    icon: ti-home
+    icon: ti-mobile
     content: |2-
 
       Augmented reality technology in construction and architecture projects involves placing a 3D model of a proposed design onto an existing space using mobile devices and 3D models.
