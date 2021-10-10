@@ -9,8 +9,8 @@ team:
     designation: Senior Software Engineer
     content: ''
     social:
-    - icon: ''
-      link: ''
+    - icon: ti-themify-favicon-alt
+      link: "@sanginfff"
   - name: Hamed Sangin
     image_webp: "/images/photo_2019-02-03_17-03-53.jpg"
     image: "/images/photo_2019-02-03_17-03-53.jpg"
