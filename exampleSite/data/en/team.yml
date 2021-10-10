@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Fatemeh Sangin
-    image_webp: ''
-    image: ''
+    image_webp: "/images/img_6808.jpg"
+    image: "/images/img_6808.jpg"
     designation: Senior Software Engineer
     content: ''
     social:
