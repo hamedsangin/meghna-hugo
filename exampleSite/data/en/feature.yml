@@ -18,10 +18,13 @@ feature:
     content: VR technology transport users into a fully interactive 3D environment,
       giving them the opportunity to explore a virtual representation of a particular
       room, floor, or building design as a whole.
-  - title: SEO Optimized
+  - title: MR (Mixed reality) in AEC
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Mixed reality (MR) technology combines the virtual and the physical realities
+      into one space and offers an exciting new design paradigm for architects. By
+      projecting a BIM model directly over a physical site in mixed reality, architects
+      can communicate design ideas to the team and clients in an immersive and interactive
+      way.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
