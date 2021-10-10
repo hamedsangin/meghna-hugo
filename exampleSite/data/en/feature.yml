@@ -13,10 +13,11 @@ feature:
     content: |2-
 
       Augmented reality in construction and architecture projects involves placing a 3D model of a proposed design onto an existing space using mobile devices and 3D models.
-  - title: Easy Customization
+  - title: VR (Virtual Reality) in AEC
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: VR technology transport users into a fully interactive 3D environment,
+      giving them the opportunity to explore a virtual representation of a particular
+      room, floor, or building design as a whole.
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
