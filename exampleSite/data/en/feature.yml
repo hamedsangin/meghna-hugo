@@ -8,10 +8,11 @@ feature:
     Engineering, and Construction (AEC) industry, to simulate BPS and present multiple
     aspects of a project can be a tremendous help in all stages of a project.
   feature_item:
-  - title: SEO Optimized
+  - title: AR (Augmented reality) in AEC
     icon: ti-home
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: |2-
+
+      Augmented reality in construction and architecture projects involves placing a 3D model of a proposed design onto an existing space using mobile devices and 3D models.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
