@@ -14,7 +14,7 @@ feature:
 
       Augmented reality technology in construction and architecture projects involves placing a 3D model of a proposed design onto an existing space using mobile devices and 3D models.
   - title: VR (Virtual Reality) in AEC
-    icon: ti-panel
+    icon: ti-eye
     content: VR technology transport users into a fully interactive 3D environment,
       giving them the opportunity to explore a virtual representation of a particular
       room, floor, or building design as a whole.
