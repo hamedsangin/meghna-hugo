@@ -9,7 +9,7 @@ feature:
     aspects of a project can be a tremendous help in all stages of a project.
   feature_item:
   - title: SEO Optimized
-    icon: "/images/vr3.PNG"
+    icon: ti-home
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: Easy Customization
