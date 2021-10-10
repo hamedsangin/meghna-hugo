@@ -6,9 +6,11 @@ team:
   - name: Fatemeh Sangin
     image_webp: ''
     image: ''
-    designation: ''
+    designation: Senior Software Engineer
     content: ''
-    social: ''
+    social:
+    - icon: ''
+      link: ''
   - name: Hamed Sangin
     image_webp: "/images/photo_2019-02-03_17-03-53.jpg"
     image: "/images/photo_2019-02-03_17-03-53.jpg"
@@ -18,9 +20,9 @@ team:
 
       M.Sc. in Energy and Architecture on Tehran University of Art
     social:
-    - icon: Telegram
+    - icon: ti-themify-favicon-alt
       link: "@Sir_Architect"
-    - icon: Whatsapp
+    - icon: ti-android
       link: "(+98) 933 632 4744"
     - icon: ti-twitter-alt
       link: https://twitter.com/HamedSangin
