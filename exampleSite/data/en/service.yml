@@ -7,10 +7,10 @@ service:
     icon: ti-desktop
     content: Modelling existing and future building into  real-and-virtual combined
       environments
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Design
+    icon: ti-ruler-pencil
+    content: " Sustainable and green design with regarding related codes and regulation
+      like LEED"
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
