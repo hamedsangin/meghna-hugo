@@ -9,7 +9,7 @@ skill:
   skill_item:
   - name: Energy Simulation
     percent: 100%
-  - name: Analysis
+  - name: Acoustic Simulation
     percent: 70%
   - name: Design
     percent: 80%
