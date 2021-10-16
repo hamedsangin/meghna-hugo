@@ -13,7 +13,7 @@ skill:
     percent: 70%
   - name: "(Day)lighting"
     percent: 90%
-  - name: IOS Development
-    percent: 95%
+  - name: LCA
+    percent: 70%
   - name: Android Development
     percent: 75%
