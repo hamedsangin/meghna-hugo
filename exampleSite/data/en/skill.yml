@@ -11,7 +11,7 @@ skill:
     percent: 100%
   - name: Acoustic Simulation
     percent: 70%
-  - name: "(Day)lighting"
+  - name: "(Day)lighting Simulation"
     percent: 90%
   - name: LCA
     percent: 70%
