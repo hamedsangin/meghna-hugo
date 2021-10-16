@@ -11,8 +11,8 @@ skill:
     percent: 100%
   - name: Acoustic Simulation
     percent: 70%
-  - name: Design
-    percent: 80%
+  - name: "(Day)lighting"
+    percent: 90%
   - name: IOS Development
     percent: 95%
   - name: Android Development
